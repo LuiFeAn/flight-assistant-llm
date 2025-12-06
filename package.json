@@ -1,0 +1,11 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@types/node": "^24.10.1",
+    "openai": "^6.9.0",
+    "typescript": "^5.9.3"
+  },
+  "devDependencies": {
+    "dotenv": "^17.2.3"
+  }
+}
